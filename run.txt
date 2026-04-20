@@ -1,0 +1,4 @@
+streamlit run app.py
+
+
+Note : use always integrated terminal for better results
