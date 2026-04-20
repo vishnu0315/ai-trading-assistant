@@ -1,3 +1,4 @@
+
 # AI-trading-assistant pro
 AI-powered trading assistant that analyzes multi-market financial data and generates BUY/SELL signals using technical indicators and interactive candlestick charts.
 # 📈 AI Trading Assistant Pro
@@ -45,8 +46,21 @@ An AI-powered trading assistant that analyzes financial market data and generate
 
 ## ▶️ Run Locally
 
-```bash
-pip install -r requirements.txt
+<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/8032e129-2370-467c-b3f3-e4410759c009" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
