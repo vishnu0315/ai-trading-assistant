@@ -58,7 +58,7 @@ An AI-powered trading assistant that analyzes financial market data and generate
 <img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/d25cc05a-12d2-449d-bb3c-14582c3b1d0d" />
 
 
-v
+
 
 
 
